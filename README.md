@@ -31,5 +31,5 @@ Feel free to explore the projects, and thank you for checking out my portfolio! 
 - **Key insights:**
 
   1. **Approval Prediction Model:** Built and evaluated classification models (e.g., Logistic Regression, Random Forest, Decision Trees, Gradient Boosting, Gaussain Naive Bayes) to predict the likelihood of credit card approval with high accuracy.
-  2. **Feature Importance:** Identified key factors influencing approval, such as income level, age, employment status, dwelling place, and ownership of property.
+  2. **Feature Importance:** Identified key factors influencing approval such as age, income level, employment status, employment length, dwelling place, and ownership of property.
   3. **Data Processing & Imputation:** Handled missing values, encoded categorical variables, and performed feature scaling to improve model performance.
