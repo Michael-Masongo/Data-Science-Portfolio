@@ -6,15 +6,15 @@ This repository serves as my data science portfolio, featuring a range of projec
 
 It includes work in:
 
-🔍 Exploratory Data Analysis (EDA)
+- 🔍 Exploratory Data Analysis (EDA)
 
-🤖 Machine Learning & Predictive Modelling
+- 🤖 Machine Learning & Predictive Modelling
 
-🗂️ Data Wrangling & Cleaning
+- 🗂️ Data Wrangling & Cleaning
 
-📢 Data Storytelling & Visualization
+- 📢 Data Storytelling & Visualization
 
-🌍 Real-world applications in logistics, healthcare, education, and business analytics
+- 🌍 Real-world applications in logistics, healthcare, education, and business analytics
 
 Built using tools like Python 🐍, SQL 🛢️, Power BI 📊, and more.
 
