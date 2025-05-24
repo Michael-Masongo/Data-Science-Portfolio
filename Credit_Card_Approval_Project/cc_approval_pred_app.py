@@ -567,7 +567,7 @@ logger = logging.getLogger(__name__)
         
 def make_prediction():
     # Local model path (place it in your project directory)
-    model_path = os.path.join("saved_models", "random_forest", "random_forest_model.sav")
+    model_path = os.path.join("saved_models", "gradient_boosting", "gradient_boosting_model.sav")
     
     try:
         logger.info(f"Attempting to load model from {model_path}")
