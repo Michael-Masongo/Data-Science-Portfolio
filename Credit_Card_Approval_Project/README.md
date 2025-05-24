@@ -20,6 +20,6 @@ This project focuses on building a machine learning model to predict whether an 
 
 ## 💡 Key Insights
 
-- **Approval Prediction Model:** Achieved strong performance using random forest and gradient boosting classifier algorithms, with recall and precision evaluated via cross-validation.  
+- **Approval Prediction Model:** Achieved strong performance using the gradient boosting classifier algorithm, with recall and precision evaluated via cross-validation.  
 - **Feature Importance:** Variables like age, income level, employment status, and employment length were found to be the most influential in determining approval outcomes.  
 - **Data Preparation:** Addressed missing values, applied label encoding and one-hot encoding for categorical variables, and used feature scaling to optimize model input.
